@@ -1,0 +1,4 @@
+CmdUtils.makeBookmarkletCommand({
+  name: "Tracit",
+url:"javascript:(function()%7Bgstrac_script=document.createElement('SCRIPT');gstrac_script.type='text/javascript';f='http://labs.toolness.com/trac//';gstrac_script.src='http://getsatisfaction.com/gstrac.js?x='+(Math.random());document.getElementsByTagName('head')%5B0%5D.appendChild(gstrac_script);%7D)()"
+})
